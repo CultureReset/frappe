@@ -1,3 +1,14 @@
+> **CultureReset fork of [frappe/frappe](https://github.com/frappe/frappe).** Low code web framework for real world applications, in Python and Javascript.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** MIT, from upstream. For updates and issues, use [upstream](https://github.com/frappe/frappe).
+>
+> The upstream README follows unchanged.
+
+---
+
 <div align="center" markdown="1">
 	<img src=".github/framework-logo-new.svg" width="80" height="80"/>
 	<h1>Frappe Framework</h1>
